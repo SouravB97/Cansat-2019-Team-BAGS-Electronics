@@ -1,0 +1,287 @@
+Cansat Prototype
+Could not find a valid BMP280 sensor, check wiring!
+Initializing SD card...initialization done.
+Found packets.csv. Removing it.
+Creating packets.csv ...
+packets.csv created.
+Found mission.log. Removing it.
+Creating mission.log ...
+mission.log created.
+	 Doesn't exist
+	 Printed the line: 2000-01-01T00:04:19+5:30	Altitude reset to 0.
+
+	 Printed the line: 2000-01-01T00:04:21+5:30	Taking Off
+
+	 Printed the line: 2000-01-01T00:04:26+5:30	Couldn't find bmp.
+
+------------------------------------------------------
+File:	mission.log		Size: 126 Bytes
+------------------------------------------------------
+2000-01-01T00:04:19+5:30	Altitude reset to 0.
+2000-01-01T00:04:21+5:30	Taking Off
+2000-01-01T00:04:26+5:30	Couldn't find bmp.
+------------------------------------------------------
+======================= PACKET =======================
+Packet Size		:		88	Bytes
+------------------------------------------------------
+Team ID			:		1516
+Mission Time		:		8	s
+Packet Count		:		1	units
+Altitude		:		44330.00	m
+Pressure		:		0.00	Pa
+Temperature		:		0.00	C
+Battery Voltage		:		4.16	V
+GPS Time		:		2013-10-22T01:37:56+05:30
+GPS Lattitude		:		0.00	E
+GPS Longitude		:		0.00	N
+GPS Altitude		:		0.00	m
+GPS Sats		:		0	units
+Pitch			:		189.25	deg
+Roll			:		18.54	deg
+Blade Spin Rate		:		0	RPM
+Op state		:		Idle
+Direction		:		0	deg
+======================================================
+
+
+	 Printed the line: 1516,8,1,44330.00,0.00,0.00,4.16,2013-10-22T01:37:56+05:30,0.00,0.00,0.00,0,189.25,18.54,0,1,0
+
+======================= PACKET =======================
+Packet Size		:		88	Bytes
+------------------------------------------------------
+Team ID			:		1516
+Mission Time		:		9	s
+Packet Count		:		2	units
+Altitude		:		44330.00	m
+Pressure		:		0.00	Pa
+Temperature		:		0.00	C
+Battery Voltage		:		4.20	V
+GPS Time		:		2013-10-22T01:37:56+05:30
+GPS Lattitude		:		0.00	E
+GPS Longitude		:		0.00	N
+GPS Altitude		:		0.00	m
+GPS Sats		:		0	units
+Pitch			:		202.32	deg
+Roll			:		17.47	deg
+Blade Spin Rate		:		0	RPM
+Op state		:		Idle
+Direction		:		0	deg
+======================================================
+
+
+	 Printed the line: 1516,9,2,44330.00,0.00,0.00,4.20,2013-10-22T01:37:56+05:30,0.00,0.00,0.00,0,202.72,17.41,0,1,0
+
+======================= PACKET =======================
+Packet Size		:		88	Bytes
+------------------------------------------------------
+Team ID			:		1516
+Mission Time		:		10	s
+Packet Count		:		3	units
+Altitude		:		44330.00	m
+Pressure		:		0.00	Pa
+Temperature		:		0.00	C
+Battery Voltage		:		4.23	V
+GPS Time		:		2013-10-22T01:37:56+05:30
+GPS Lattitude		:		0.00	E
+GPS Longitude		:		0.00	N
+GPS Altitude		:		0.00	m
+GPS Sats		:		0	units
+Pitch			:		215.59	deg
+Roll			:		15.44	deg
+Blade Spin Rate		:		0	RPM
+Op state		:		Idle
+Direction		:		0	deg
+======================================================
+
+
+	 Printed the line: 1516,10,3,44330.00,0.00,0.00,4.23,2013-10-22T01:37:56+05:30,0.00,0.00,0.00,0,215.59,15.44,0,1,0
+
+======================= PACKET =======================
+Packet Size		:		88	Bytes
+------------------------------------------------------
+Team ID			:		1516
+Mission Time		:		11	s
+Packet Count		:		4	units
+Altitude		:		44330.00	m
+Pressure		:		0.00	Pa
+Temperature		:		0.00	C
+Battery Voltage		:		4.23	V
+GPS Time		:		2013-10-22T01:37:56+05:30
+GPS Lattitude		:		0.00	E
+GPS Longitude		:		0.00	N
+GPS Altitude		:		0.00	m
+GPS Sats		:		0	units
+Pitch			:		228.17	deg
+Roll			:		12.74	deg
+Blade Spin Rate		:		0	RPM
+Op state		:		Idle
+Direction		:		0	deg
+======================================================
+
+
+	 Printed the line: 1516,11,4,44330.00,0.00,0.00,4.23,2013-10-22T01:37:56+05:30,0.00,0.00,0.00,0,228.17,12.74,0,1,0
+
+======================= PACKET =======================
+Packet Size		:		88	Bytes
+------------------------------------------------------
+Team ID			:		1516
+Mission Time		:		13	s
+Packet Count		:		5	units
+Altitude		:		44330.00	m
+Pressure		:		0.00	Pa
+Temperature		:		0.00	C
+Battery Voltage		:		4.20	V
+GPS Time		:		2013-10-22T01:37:56+05:30
+GPS Lattitude		:		0.00	E
+GPS Longitude		:		0.00	N
+GPS Altitude		:		0.00	m
+GPS Sats		:		0	units
+Pitch			:		240.50	deg
+Roll			:		9.42	deg
+Blade Spin Rate		:		0	RPM
+Op state		:		Idle
+Direction		:		0	deg
+======================================================
+
+
+	 Printed the line: 1516,13,5,44330.00,0.00,0.00,4.20,2013-10-22T01:37:56+05:30,0.00,0.00,0.00,0,240.50,9.42,0,1,0
+
+======================= PACKET =======================
+Packet Size		:		88	Bytes
+------------------------------------------------------
+Team ID			:		1516
+Mission Time		:		14	s
+Packet Count		:		6	units
+Altitude		:		44330.00	m
+Pressure		:		0.00	Pa
+Temperature		:		0.00	C
+Battery Voltage		:		4.23	V
+GPS Time		:		2013-10-22T01:37:56+05:30
+GPS Lattitude		:		0.00	E
+GPS Longitude		:		0.00	N
+GPS Altitude		:		0.00	m
+GPS Sats		:		0	units
+Pitch			:		252.57	deg
+Roll			:		5.64	deg
+Blade Spin Rate		:		0	RPM
+Op state		:		Idle
+Direction		:		0	deg
+======================================================
+
+
+	 Printed the line: 1516,14,6,44330.00,0.00,0.00,4.23,2013-10-22T01:37:56+05:30,0.00,0.00,0.00,0,252.57,5.64,0,1,0
+
+======================= PACKET =======================
+Packet Size		:		88	Bytes
+------------------------------------------------------
+Team ID			:		1516
+Mission Time		:		15	s
+Packet Count		:		7	units
+Altitude		:		44330.00	m
+Pressure		:		0.00	Pa
+Temperature		:		0.00	C
+Battery Voltage		:		4.03	V
+GPS Time		:		2013-10-22T01:37:56+05:30
+GPS Lattitude		:		0.00	E
+GPS Longitude		:		0.00	N
+GPS Altitude		:		0.00	m
+GPS Sats		:		0	units
+Pitch			:		263.24	deg
+Roll			:		2.26	deg
+Blade Spin Rate		:		0	RPM
+Op state		:		Idle
+Direction		:		0	deg
+======================================================
+
+
+	 Printed the line: 1516,15,7,44330.00,0.00,0.00,4.03,2013-10-22T01:37:56+05:30,0.00,0.00,0.00,0,263.24,2.26,0,1,0
+
+======================= PACKET =======================
+Packet Size		:		88	Bytes
+------------------------------------------------------
+Team ID			:		1516
+Mission Time		:		16	s
+Packet Count		:		8	units
+Altitude		:		44330.00	m
+Pressure		:		0.00	Pa
+Temperature		:		0.00	C
+Battery Voltage		:		4.17	V
+GPS Time		:		2013-10-22T01:37:56+05:30
+GPS Lattitude		:		0.00	E
+GPS Longitude		:		0.00	N
+GPS Altitude		:		0.00	m
+GPS Sats		:		0	units
+Pitch			:		263.59	deg
+Roll			:		2.30	deg
+Blade Spin Rate		:		0	RPM
+Op state		:		Idle
+Direction		:		0	deg
+======================================================
+
+
+	 Printed the line: 1516,16,8,44330.00,0.00,0.00,4.17,2013-10-22T01:37:56+05:30,0.00,0.00,0.00,0,263.59,2.30,0,1,0
+
+======================= PACKET =======================
+Packet Size		:		88	Bytes
+------------------------------------------------------
+Team ID			:		1516
+Mission Time		:		17	s
+Packet Count		:		9	units
+Altitude		:		44330.00	m
+Pressure		:		0.00	Pa
+Temperature		:		0.00	C
+Battery Voltage		:		4.19	V
+GPS Time		:		2013-10-22T01:37:56+05:30
+GPS Lattitude		:		0.00	E
+GPS Longitude		:		0.00	N
+GPS Altitude		:		0.00	m
+GPS Sats		:		0	units
+Pitch			:		263.56	deg
+Roll			:		1.72	deg
+Blade Spin Rate		:		0	RPM
+Op state		:		Idle
+Direction		:		0	deg
+======================================================
+
+
+	 Printed the line: 1516,17,9,44330.00,0.00,0.00,4.19,2013-10-22T01:37:56+05:30,0.00,0.00,0.00,0,263.56,1.59,0,1,0
+
+======================= PACKET =======================
+Packet Size		:		88	Bytes
+------------------------------------------------------
+Team ID			:		1516
+Mission Time		:		18	s
+Packet Count		:		10	units
+Altitude		:		44330.00	m
+Pressure		:		0.00	Pa
+Temperature		:		0.00	C
+Battery Voltage		:		4.06	V
+GPS Time		:		2013-10-22T01:37:56+05:30
+GPS Lattitude		:		0.00	E
+GPS Longitude		:		0.00	N
+GPS Altitude		:		0.00	m
+GPS Sats		:		0	units
+Pitch			:		263.51	deg
+Roll			:		1.61	deg
+Blade Spin Rate		:		0	RPM
+Op state		:		Idle
+Direction		:		0	deg
+======================================================
+
+
+	 Printed the line: 1516,18,10,44330.00,0.00,0.00,4.06,2013-10-22T01:37:56+05:30,0.00,0.00,0.00,0,263.51,1.61,0,1,0
+
+------------------------------------------------------
+File:	packets.csv		Size: 953 Bytes
+------------------------------------------------------
+1516,8,1,44330.00,0.00,0.00,4.16,2013-10-22T01:37:56+05:30,0.00,0.00,0.00,0,189.25,18.54,0,1,0
+1516,9,2,44330.00,0.00,0.00,4.20,2013-10-22T01:37:56+05:30,0.00,0.00,0.00,0,202.72,17.41,0,1,0
+1516,10,3,44330.00,0.00,0.00,4.23,2013-10-22T01:37:56+05:30,0.00,0.00,0.00,0,215.59,15.44,0,1,0
+1516,11,4,44330.00,0.00,0.00,4.23,2013-10-22T01:37:56+05:30,0.00,0.00,0.00,0,228.17,12.74,0,1,0
+1516,13,5,44330.00,0.00,0.00,4.20,2013-10-22T01:37:56+05:30,0.00,0.00,0.00,0,240.50,9.42,0,1,0
+1516,14,6,44330.00,0.00,0.00,4.23,2013-10-22T01:37:56+05:30,0.00,0.00,0.00,0,252.57,5.64,0,1,0
+1516,15,7,44330.00,0.00,0.00,4.03,2013-10-22T01:37:56+05:30,0.00,0.00,0.00,0,263.24,2.26,0,1,0
+1516,16,8,44330.00,0.00,0.00,4.17,2013-10-22T01:37:56+05:30,0.00,0.00,0.00,0,263.59,2.30,0,1,0
+1516,17,9,44330.00,0.00,0.00,4.19,2013-10-22T01:37:56+05:30,0.00,0.00,0.00,0,263.56,1.59,0,1,0
+1516,18,10,44330.00,0.00,0.00,4.06,2013-10-22T01:37:56+05:30,0.00,0.00,0.00,0,263.51,1.61,0,1,0
+------------------------------------------------------
